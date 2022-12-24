@@ -1,0 +1,3 @@
+INTENTS = {
+    "OpenFileIntent": handle_open_file_intent
+}
